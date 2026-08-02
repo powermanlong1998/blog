@@ -2,6 +2,6 @@
   "name": "my-hugo-blog",
   "version": "1.0.0",
   "scripts": {
-    "build": "curl -L https://github.com/gohugoio/hugo/releases/download/v0.150.0/hugo_extended_0.150.0_linux-amd64.tar.gz | tar -xz && chmod +x hugo && ./hugo --minify"
+    "build": "curl -L https://github.com/gohugoio/hugo/releases/download/v0.148.0/hugo_extended_0.148.0_linux-amd64.tar.gz | tar -xz && chmod +x hugo && ./hugo --minify"
   }
 }
